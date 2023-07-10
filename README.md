@@ -1,5 +1,5 @@
 # Dual Encoder Model
-This repo contains code related to the dual encoder model from our work in "Automatic Depression Severity Assessment with Deep Learning Using Parameter-Efficient Tuning", which has been published at Frontiers in Psychiatry, section Digital Mental Health.
+This repo contains code related to the [dual encoder model](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1160291/full) from our work in "Automatic Depression Severity Assessment with Deep Learning Using Parameter-Efficient Tuning", which has been published at Frontiers in Psychiatry, section Digital Mental Health.
 
 ## Data
 The [DAIC-WOZ dataset](https://dcapswoz.ict.usc.edu) is used for this experiement. The data can be obtained after signing an agreement form. This dataset contains interviews with 189 subjects. Raw audio files, transcriptions, and facial landmark features are provided. 
