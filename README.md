@@ -25,7 +25,7 @@ The [DAIC-WOZ dataset](https://dcapswoz.ict.usc.edu) is used for this experiemen
 
 ## Reference
 For more details of the methods and results, please refer to our paper.
-'''
+```
 @article{lau2023automatic,
   title={Automatic depression severity assessment with deep learning using parameter-efficient tuning},
   author={Lau, Clinton and Zhu, Xiaodan and Chan, Wai-Yip},
@@ -35,5 +35,5 @@ For more details of the methods and results, please refer to our paper.
   year={2023},
   publisher={Frontiers}
 }
-'''
+```
 
