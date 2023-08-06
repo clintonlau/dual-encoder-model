@@ -11,7 +11,7 @@ The [DAIC-WOZ dataset](https://dcapswoz.ict.usc.edu) is used for this experiemen
     │
     ├── dataset                     # Code for preprocessing DAIC-WOZ
     │   └── dataset.py              # Custom Dataset class code.
-    │   └── preprocessing.py        # DAIC-WOZ transcript preprocessing code. (TBA)
+    │   └── preprocessing.py        # DAIC-WOZ transcript preprocessing code.
     │
     ├── model                       # Code for initializing a dual encoder model
     │   ├── attention.py            # Implementation of attention layer for BiLSTM.
